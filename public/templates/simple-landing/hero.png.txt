@@ -1,0 +1,9 @@
+# Simple Landing Page Hero Image
+
+Placeholder file - Replace with actual 1200x800px screenshot showing:
+- Landing page hero
+- Features section
+- CTA buttons
+- Contact form
+
+Use high-quality PNG or WebP format.

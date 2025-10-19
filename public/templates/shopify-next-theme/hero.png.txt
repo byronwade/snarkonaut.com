@@ -1,0 +1,9 @@
+# Shopify Next.js Theme Hero Image
+
+Placeholder file - Replace with actual 1200x800px screenshot showing:
+- Product listing page
+- Shopping cart
+- Checkout flow
+- Mobile responsive design
+
+Use high-quality PNG or WebP format.

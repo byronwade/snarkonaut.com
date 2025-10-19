@@ -1,0 +1,35 @@
+# Shopify Next.js Theme Screenshots
+
+Add the following screenshots to this directory:
+
+1. **hero.png** (1200x800px)
+   - Homepage hero section
+   - Featured products
+   - Navigation and branding
+
+2. **product.png** (1200x800px)
+   - Product detail page
+   - Image gallery
+   - Add to cart functionality
+   - Product variants
+
+3. **cart.png** (1200x800px)
+   - Shopping cart drawer/page
+   - Cart items
+   - Quantity controls
+   - Checkout button
+
+4. **checkout.png** (1200x800px)
+   - Collection page
+   - Product filtering
+   - Product grid
+   - Sort options
+
+## Screenshot Tips
+
+- Use 1200x800px for consistency
+- Show actual products and real content
+- Capture both desktop and mobile views
+- Highlight key features
+- Use high-quality images
+- Optimize for web (use WebP or PNG)

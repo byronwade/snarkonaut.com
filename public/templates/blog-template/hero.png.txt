@@ -1,0 +1,9 @@
+# Blog Template Hero Image
+
+Placeholder file - Replace with actual 1200x800px screenshot showing:
+- Blog homepage
+- Article page
+- Newsletter section
+- Typography and layout
+
+Use high-quality PNG or WebP format.

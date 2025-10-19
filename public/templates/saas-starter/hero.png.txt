@@ -1,0 +1,9 @@
+# SaaS Starter Hero Image
+
+Placeholder file - Replace with actual 1200x800px screenshot showing:
+- Homepage/dashboard view
+- Authentication UI
+- Pricing page
+- Key features highlighted
+
+Use high-quality PNG or WebP format.
